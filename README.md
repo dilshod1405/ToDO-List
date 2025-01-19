@@ -9,8 +9,6 @@ A simple **To-Do List** application built with **Spring Boot** and **PostgreSQL*
 - **Read**: View the details of a specific task or all tasks.
 - **Update**: Edit an existing task.
 - **Delete**: Remove a task from the list.
-- **Complete**: Mark tasks as completed or pending.
-- **Filter**: View tasks filtered by completion status.
 
 ## Technologies Used
 
