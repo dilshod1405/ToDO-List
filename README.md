@@ -23,7 +23,7 @@ A simple **To-Do List** application built with **Spring Boot** and **PostgreSQL*
 
 ### Prerequisites
 
-- **Java 11+** (Make sure Java is installed and properly set up on your machine).
+- **Java 21** (Make sure Java is installed and properly set up on your machine).
 - **PostgreSQL**: Ensure PostgreSQL is installed and running.
 - **Maven**: Make sure Maven is installed for building the project.
 
