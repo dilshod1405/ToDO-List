@@ -32,7 +32,7 @@ A simple **To-Do List** application built with **Spring Boot** and **PostgreSQL*
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/ToDO-List.git
+   git clone https://github.com/dilshod1405/ToDO-List.git
    ```
 
 2. Navigate to the project directory:
@@ -65,7 +65,7 @@ A simple **To-Do List** application built with **Spring Boot** and **PostgreSQL*
    mvn spring-boot:run
    ```
 
-   The application will be available at `http://localhost:8080`.
+   The application will be available at `http://localhost:8081`.
 
 ## Endpoints
 
@@ -88,19 +88,6 @@ Fetch all tasks.
         "completed": true
     }
 ]
-```
-
-### **GET /tasks/{id}**
-Fetch a specific task by ID.
-
-**Response:**
-```json
-{
-    "id": 1,
-    "title": "Task 1",
-    "description": "Task 1 description",
-    "completed": false
-}
 ```
 
 ### **POST /tasks**
